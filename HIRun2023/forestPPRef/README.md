@@ -43,3 +43,16 @@ cmsRun forest_miniAOD_run3_ppRECO_DATA.py
 ```
 
 If this works, build is ready to produce
+
+********************************************
+********************************************
+
+2023.10.30
+
+For Forests run on the pp reference PPRefHardProbesX PDs, where X=0,1,2
+forest_miniAOD_run3_ppref_Data.py
+
+and the following crab configs
+crabConfig_PPRefHardProbes0.py
+crabConfig_PPRefHardProbes1.py
+crabConfig_PPRefHardProbes2.py
